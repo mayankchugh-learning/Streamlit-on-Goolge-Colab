@@ -1,1 +1,1 @@
-# Streamlit-on-Goolge-Colan
+# Streamlit-on-Goolge-Colab
